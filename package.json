@@ -1,0 +1,26 @@
+{
+  "name": "commandexecuter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATrandyshev/CommandExecuter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATrandyshev/CommandExecuter/issues"
+  },
+  "homepage": "https://github.com/ATrandyshev/CommandExecuter#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}

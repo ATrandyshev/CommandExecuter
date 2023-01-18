@@ -1,0 +1,1 @@
+export type ProptType = 'input' | 'number' | 'password';
